@@ -10,7 +10,7 @@
     Requires administrative privileges to access Wi-Fi passwords.
 
 .EXAMPLE
-    .\Get-MainWifiKey.ps1
+    .\WiFiKeyRetriever.ps1
     Displays a list of profiles and prompts to select one to retrieve its password.
 
 .AUTHOR
